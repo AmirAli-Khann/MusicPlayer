@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="singer">YAS</string>
+    <string name="az_chi_begam">Az Chi Begam</string>
+    <string name="duration_az_chi_begam">04:39</string>
+    <string name="barcode">Barcode</string>
+    <string name="duration_barcode">03:24</string>
+    <string name="entezar">Entezar</string>
+    <string name="duration_entezar">03:54</string>
+    <string name="faryad">Faryad</string>
+    <string name="duration_faryad">04:06</string>
+    <string name="edame_midam">Edame Midam</string>
+    <string name="duration_edame_midam">03:47</string>
+    <string name="nisti">Nisti</string>
+    <string name="duration_nisti">04:28</string>
+    <string name="stop_name">_____</string>
+    <string name="stop_music">____________</string>
+    <string name="stop_duration">00:00</string>
+</resources>
